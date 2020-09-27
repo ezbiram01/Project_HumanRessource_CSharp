@@ -1,0 +1,10 @@
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\devoir\RessourceHumaine\RessourceHumaine\bin\Debug\RessourceHumaine.exe.config
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\devoir\RessourceHumaine\RessourceHumaine\bin\Debug\RessourceHumaine.exe
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\devoir\RessourceHumaine\RessourceHumaine\bin\Debug\RessourceHumaine.pdb
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\devoir\RessourceHumaine\RessourceHumaine\obj\Debug\RessourceHumaine.csprojAssemblyReference.cache
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\devoir\RessourceHumaine\RessourceHumaine\obj\Debug\RessourceHumaine.Properties.Resources.resources
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\devoir\RessourceHumaine\RessourceHumaine\obj\Debug\RessourceHumaine.csproj.GenerateResource.cache
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\devoir\RessourceHumaine\RessourceHumaine\obj\Debug\RessourceHumaine.exe
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\devoir\RessourceHumaine\RessourceHumaine\obj\Debug\RessourceHumaine.pdb
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\devoir\RessourceHumaine\RessourceHumaine\obj\Debug\RessourceHumaine.RessourceHumaineForm.resources
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\devoir\RessourceHumaine\RessourceHumaine\obj\Debug\RessourceHumaine.csproj.CoreCompileInputs.cache
